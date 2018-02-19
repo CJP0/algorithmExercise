@@ -1,0 +1,4 @@
+﻿  Strassen.cpp
+c:\github\algorithmexercise\strassen\newstrassen\strassen.cpp(14): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'matrix' 的左方
+c:\github\algorithmexercise\strassen\newstrassen\strassen.cpp(90): warning C4101: 't': 未參考的區域變數
+  NewStrassen.vcxproj -> C:\Github\algorithmExercise\Strassen\Debug\NewStrassen.exe

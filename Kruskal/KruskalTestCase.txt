@@ -1,0 +1,13 @@
+a b 32
+a d 17
+b e 45
+c d 18
+d e 10
+e f 28
+c g 5
+d h 3
+e i 25
+f j 6
+g h 59
+h i 4
+i j 12

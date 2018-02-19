@@ -1,0 +1,3 @@
+﻿  Heapsort.cpp
+c:\c_code\heapsort\heapsort\heapsort.cpp(37): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Heapsort.vcxproj -> C:\c_code\Heapsort\Debug\Heapsort.exe

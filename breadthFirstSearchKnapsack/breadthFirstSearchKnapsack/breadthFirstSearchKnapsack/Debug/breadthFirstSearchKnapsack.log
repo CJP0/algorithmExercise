@@ -1,0 +1,6 @@
+﻿  breadthFirstSearchKnapsack.cpp
+c:\c_code\breadthfirstsearchknapsack\breadthfirstsearchknapsack\breadthfirstsearchknapsack.cpp(72): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\c_code\breadthfirstsearchknapsack\breadthfirstsearchknapsack\breadthfirstsearchknapsack.cpp(80): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\c_code\breadthfirstsearchknapsack\breadthfirstsearchknapsack\breadthfirstsearchknapsack.cpp(76): warning C4101: 'k': 未參考的區域變數
+c:\c_code\breadthfirstsearchknapsack\breadthfirstsearchknapsack\breadthfirstsearchknapsack.cpp(118): warning C4101: 'str': 未參考的區域變數
+  breadthFirstSearchKnapsack.vcxproj -> C:\c_code\breadthFirstSearchKnapsack\Debug\breadthFirstSearchKnapsack.exe
