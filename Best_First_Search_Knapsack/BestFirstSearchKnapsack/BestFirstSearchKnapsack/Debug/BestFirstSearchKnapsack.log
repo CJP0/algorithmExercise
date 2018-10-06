@@ -1,6 +1,0 @@
-﻿  BestFirstSearchKnapsack.cpp
-c:\c_code\bestfirstsearchknapsack\bestfirstsearchknapsack\bestfirstsearchknapsack.cpp(70): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
-c:\c_code\bestfirstsearchknapsack\bestfirstsearchknapsack\bestfirstsearchknapsack.cpp(66): warning C4101: 'k': 未參考的區域變數
-c:\c_code\bestfirstsearchknapsack\bestfirstsearchknapsack\bestfirstsearchknapsack.cpp(86): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
-c:\c_code\bestfirstsearchknapsack\bestfirstsearchknapsack\bestfirstsearchknapsack.cpp(126): warning C4101: 'str': 未參考的區域變數
-  BestFirstSearchKnapsack.vcxproj -> C:\c_code\BestFirstSearchKnapsack\Debug\BestFirstSearchKnapsack.exe

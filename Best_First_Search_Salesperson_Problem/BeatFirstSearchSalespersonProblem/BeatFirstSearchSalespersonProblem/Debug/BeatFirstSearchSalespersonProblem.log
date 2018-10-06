@@ -1,3 +1,0 @@
-﻿  BeatFirstSearchSalespersonProblem.cpp
-c:\c_code\beatfirstsearchsalespersonproblem\beatfirstsearchsalespersonproblem\beatfirstsearchsalespersonproblem.cpp(9): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'node' 的左方
-  BeatFirstSearchSalespersonProblem.vcxproj -> C:\c_code\BeatFirstSearchSalespersonProblem\Debug\BeatFirstSearchSalespersonProblem.exe

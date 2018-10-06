@@ -1,4 +1,0 @@
-﻿  mergesort3.cpp
-c:\c_code\mergesort3\mergesort3\mergesort3.cpp(40): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-c:\c_code\mergesort3\mergesort3\mergesort3.cpp(41): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-  mergesort3.vcxproj -> C:\c_code\mergesort3\Debug\mergesort3.exe
